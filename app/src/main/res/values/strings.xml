@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tres En Raya</string>
+    <string name="jugadorX">Jugador X</string>
+    <string name="jugadorO">Jugador O</string>
+    <string name="BtReiniciar">Reiniciar</string>
+    <string name="Conmutador">Jugador</string>
+    <color name="white">#464646</color>
+</resources>
